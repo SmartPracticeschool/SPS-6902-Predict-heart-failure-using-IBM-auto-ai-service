@@ -10,7 +10,14 @@ https://cloud.ibm.com/catalog/services/watson-studio
 6. For Auto AI, created a Machine learning instance
 7.Selected the prediction parameter which is HEARTFAILURE according to the dataset and applied  run the experiment.
 8.created Node Red Services;
- creatde a Node-RED starter application in the IBM Cloud, including a Cloudant database to store the application flow configuration
+ creatded a Node-RED starter application in the IBM Cloud, including a Cloudant database to store the application flow configuration
 9. integrated node-red to the model by calling the API of the model. 
 a. installed the dashboard nodes from the manage pallete and create UI accordingly by making use of form nodes and text nodes.
  b.Now use the HTTP request nodes to request the model API which was generated when the model was built.
+ 
+ Files Added in Github
+ video
+ JSON
+ patient data
+ Images
+ 
