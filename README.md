@@ -21,3 +21,5 @@ a. installed the dashboard nodes from the manage pallete and create UI according
  patient data
  Images
  
+ https://node-red-grfle-2020-10-03.eu-gb.mybluemix.net/ui/#!/0?socketid=ZWUQHSxoJdR6FTBtAAAJ
+ 
